@@ -80,6 +80,7 @@ Now there's a line that reads `my_second_variable = -18.2 + my_first_variable;`.
 # Before you go on...
 ## A review
 * Variables need to be created before they are used.
-* Variables are created in the following format: `datatype variable_name = number`.
+* Variables are created in the following format: `datatype variable_name = number;`.
 * Format specifiers allow for variables to be printed.
 * The equals sign `=` allows for values to be assigned to variables.
+* Initializing variables is concidered good practice.
